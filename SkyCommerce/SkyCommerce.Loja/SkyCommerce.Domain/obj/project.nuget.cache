@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4rbf5viqWE8ORIMM8jlPU4YkkJySNEQhtaWJCoh+0YgelXlmU7kEUO0HrTsoT603G04V+ozqpXigndThPh2UkQ==",
+  "dgSpecHash": "RmQ3SBsxnqcBaXzRQDNUoyfkp8FRL2tLJv5ehxf3QPM/gfG9U3QAO4XMMsVhVw6u/M1vmTl4qa+qhM0VT94/XA==",
   "success": true,
-  "projectFilePath": "P:\\Projects\\IdentityServer_4\\SkyCommerce.Loja\\SkyCommerce.Domain\\SkyCommerce.Domain.csproj",
+  "projectFilePath": "P:\\Projects\\IdentityServer_4\\SkyCommerce\\SkyCommerce.Loja\\SkyCommerce.Domain\\SkyCommerce.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\aspnetcore.iqueryable.extensions\\3.1.7\\aspnetcore.iqueryable.extensions.3.1.7.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\bogus\\30.0.4\\bogus.30.0.4.nupkg.sha512",

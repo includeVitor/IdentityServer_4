@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "P:\\Projects\\IdentityServer_4\\SkyCommerce.Loja\\SkyCommerce.Site\\SkyCommerce.Site.csproj": {}
+    "P:\\Projects\\IdentityServer_4\\SkyCommerce\\SkyCommerce.Loja\\SkyCommerce.Site\\SkyCommerce.Site.csproj": {}
   },
   "projects": {
-    "P:\\Projects\\IdentityServer_4\\SkyCommerce.Loja\\SkyCommerce.CrossCutting.Services\\SkyCommerce.CrossCutting.Services.csproj": {
+    "P:\\Projects\\IdentityServer_4\\SkyCommerce\\SkyCommerce.Loja\\SkyCommerce.CrossCutting.Services\\SkyCommerce.CrossCutting.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "P:\\Projects\\IdentityServer_4\\SkyCommerce.Loja\\SkyCommerce.CrossCutting.Services\\SkyCommerce.CrossCutting.Services.csproj",
+        "projectUniqueName": "P:\\Projects\\IdentityServer_4\\SkyCommerce\\SkyCommerce.Loja\\SkyCommerce.CrossCutting.Services\\SkyCommerce.CrossCutting.Services.csproj",
         "projectName": "SkyCommerce.CrossCutting.Services",
-        "projectPath": "P:\\Projects\\IdentityServer_4\\SkyCommerce.Loja\\SkyCommerce.CrossCutting.Services\\SkyCommerce.CrossCutting.Services.csproj",
+        "projectPath": "P:\\Projects\\IdentityServer_4\\SkyCommerce\\SkyCommerce.Loja\\SkyCommerce.CrossCutting.Services\\SkyCommerce.CrossCutting.Services.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "P:\\Projects\\IdentityServer_4\\SkyCommerce.Loja\\SkyCommerce.CrossCutting.Services\\obj\\",
+        "outputPath": "P:\\Projects\\IdentityServer_4\\SkyCommerce\\SkyCommerce.Loja\\SkyCommerce.CrossCutting.Services\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -31,8 +31,8 @@
           "netstandard2.1": {
             "targetAlias": "netstandard2.1",
             "projectReferences": {
-              "P:\\Projects\\IdentityServer_4\\SkyCommerce.Loja\\SkyCommerce.Domain\\SkyCommerce.Domain.csproj": {
-                "projectPath": "P:\\Projects\\IdentityServer_4\\SkyCommerce.Loja\\SkyCommerce.Domain\\SkyCommerce.Domain.csproj"
+              "P:\\Projects\\IdentityServer_4\\SkyCommerce\\SkyCommerce.Loja\\SkyCommerce.Domain\\SkyCommerce.Domain.csproj": {
+                "projectPath": "P:\\Projects\\IdentityServer_4\\SkyCommerce\\SkyCommerce.Loja\\SkyCommerce.Domain\\SkyCommerce.Domain.csproj"
               }
             }
           }
@@ -79,14 +79,14 @@
         }
       }
     },
-    "P:\\Projects\\IdentityServer_4\\SkyCommerce.Loja\\SkyCommerce.Data\\SkyCommerce.Data.csproj": {
+    "P:\\Projects\\IdentityServer_4\\SkyCommerce\\SkyCommerce.Loja\\SkyCommerce.Data\\SkyCommerce.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "P:\\Projects\\IdentityServer_4\\SkyCommerce.Loja\\SkyCommerce.Data\\SkyCommerce.Data.csproj",
+        "projectUniqueName": "P:\\Projects\\IdentityServer_4\\SkyCommerce\\SkyCommerce.Loja\\SkyCommerce.Data\\SkyCommerce.Data.csproj",
         "projectName": "SkyCommerce.Data",
-        "projectPath": "P:\\Projects\\IdentityServer_4\\SkyCommerce.Loja\\SkyCommerce.Data\\SkyCommerce.Data.csproj",
+        "projectPath": "P:\\Projects\\IdentityServer_4\\SkyCommerce\\SkyCommerce.Loja\\SkyCommerce.Data\\SkyCommerce.Data.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "P:\\Projects\\IdentityServer_4\\SkyCommerce.Loja\\SkyCommerce.Data\\obj\\",
+        "outputPath": "P:\\Projects\\IdentityServer_4\\SkyCommerce\\SkyCommerce.Loja\\SkyCommerce.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -106,8 +106,8 @@
           "netstandard2.1": {
             "targetAlias": "netstandard2.1",
             "projectReferences": {
-              "P:\\Projects\\IdentityServer_4\\SkyCommerce.Loja\\SkyCommerce.Domain\\SkyCommerce.Domain.csproj": {
-                "projectPath": "P:\\Projects\\IdentityServer_4\\SkyCommerce.Loja\\SkyCommerce.Domain\\SkyCommerce.Domain.csproj"
+              "P:\\Projects\\IdentityServer_4\\SkyCommerce\\SkyCommerce.Loja\\SkyCommerce.Domain\\SkyCommerce.Domain.csproj": {
+                "projectPath": "P:\\Projects\\IdentityServer_4\\SkyCommerce\\SkyCommerce.Loja\\SkyCommerce.Domain\\SkyCommerce.Domain.csproj"
               }
             }
           }
@@ -170,14 +170,14 @@
         }
       }
     },
-    "P:\\Projects\\IdentityServer_4\\SkyCommerce.Loja\\SkyCommerce.Domain\\SkyCommerce.Domain.csproj": {
+    "P:\\Projects\\IdentityServer_4\\SkyCommerce\\SkyCommerce.Loja\\SkyCommerce.Domain\\SkyCommerce.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "P:\\Projects\\IdentityServer_4\\SkyCommerce.Loja\\SkyCommerce.Domain\\SkyCommerce.Domain.csproj",
+        "projectUniqueName": "P:\\Projects\\IdentityServer_4\\SkyCommerce\\SkyCommerce.Loja\\SkyCommerce.Domain\\SkyCommerce.Domain.csproj",
         "projectName": "SkyCommerce.Domain",
-        "projectPath": "P:\\Projects\\IdentityServer_4\\SkyCommerce.Loja\\SkyCommerce.Domain\\SkyCommerce.Domain.csproj",
+        "projectPath": "P:\\Projects\\IdentityServer_4\\SkyCommerce\\SkyCommerce.Loja\\SkyCommerce.Domain\\SkyCommerce.Domain.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "P:\\Projects\\IdentityServer_4\\SkyCommerce.Loja\\SkyCommerce.Domain\\obj\\",
+        "outputPath": "P:\\Projects\\IdentityServer_4\\SkyCommerce\\SkyCommerce.Loja\\SkyCommerce.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -251,14 +251,14 @@
         }
       }
     },
-    "P:\\Projects\\IdentityServer_4\\SkyCommerce.Loja\\SkyCommerce.Site\\SkyCommerce.Site.csproj": {
+    "P:\\Projects\\IdentityServer_4\\SkyCommerce\\SkyCommerce.Loja\\SkyCommerce.Site\\SkyCommerce.Site.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "P:\\Projects\\IdentityServer_4\\SkyCommerce.Loja\\SkyCommerce.Site\\SkyCommerce.Site.csproj",
+        "projectUniqueName": "P:\\Projects\\IdentityServer_4\\SkyCommerce\\SkyCommerce.Loja\\SkyCommerce.Site\\SkyCommerce.Site.csproj",
         "projectName": "SkyCommerce.Site",
-        "projectPath": "P:\\Projects\\IdentityServer_4\\SkyCommerce.Loja\\SkyCommerce.Site\\SkyCommerce.Site.csproj",
+        "projectPath": "P:\\Projects\\IdentityServer_4\\SkyCommerce\\SkyCommerce.Loja\\SkyCommerce.Site\\SkyCommerce.Site.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "P:\\Projects\\IdentityServer_4\\SkyCommerce.Loja\\SkyCommerce.Site\\obj\\",
+        "outputPath": "P:\\Projects\\IdentityServer_4\\SkyCommerce\\SkyCommerce.Loja\\SkyCommerce.Site\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -278,14 +278,14 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "P:\\Projects\\IdentityServer_4\\SkyCommerce.Loja\\SkyCommerce.CrossCutting.Services\\SkyCommerce.CrossCutting.Services.csproj": {
-                "projectPath": "P:\\Projects\\IdentityServer_4\\SkyCommerce.Loja\\SkyCommerce.CrossCutting.Services\\SkyCommerce.CrossCutting.Services.csproj"
+              "P:\\Projects\\IdentityServer_4\\SkyCommerce\\SkyCommerce.Loja\\SkyCommerce.CrossCutting.Services\\SkyCommerce.CrossCutting.Services.csproj": {
+                "projectPath": "P:\\Projects\\IdentityServer_4\\SkyCommerce\\SkyCommerce.Loja\\SkyCommerce.CrossCutting.Services\\SkyCommerce.CrossCutting.Services.csproj"
               },
-              "P:\\Projects\\IdentityServer_4\\SkyCommerce.Loja\\SkyCommerce.Data\\SkyCommerce.Data.csproj": {
-                "projectPath": "P:\\Projects\\IdentityServer_4\\SkyCommerce.Loja\\SkyCommerce.Data\\SkyCommerce.Data.csproj"
+              "P:\\Projects\\IdentityServer_4\\SkyCommerce\\SkyCommerce.Loja\\SkyCommerce.Data\\SkyCommerce.Data.csproj": {
+                "projectPath": "P:\\Projects\\IdentityServer_4\\SkyCommerce\\SkyCommerce.Loja\\SkyCommerce.Data\\SkyCommerce.Data.csproj"
               },
-              "P:\\Projects\\IdentityServer_4\\SkyCommerce.Loja\\SkyCommerce.Domain\\SkyCommerce.Domain.csproj": {
-                "projectPath": "P:\\Projects\\IdentityServer_4\\SkyCommerce.Loja\\SkyCommerce.Domain\\SkyCommerce.Domain.csproj"
+              "P:\\Projects\\IdentityServer_4\\SkyCommerce\\SkyCommerce.Loja\\SkyCommerce.Domain\\SkyCommerce.Domain.csproj": {
+                "projectPath": "P:\\Projects\\IdentityServer_4\\SkyCommerce\\SkyCommerce.Loja\\SkyCommerce.Domain\\SkyCommerce.Domain.csproj"
               }
             }
           }

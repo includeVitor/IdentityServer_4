@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "P:\\Projects\\IdentityServer_4\\SkyCommerce.SSO\\SkyCommerce.SSO.csproj": {}
+    "P:\\Projects\\IdentityServer_4\\SkyCommerce\\SkyCommerce.SSO\\SkyCommerce.SSO.csproj": {}
   },
   "projects": {
-    "P:\\Projects\\IdentityServer_4\\SkyCommerce.SSO\\SkyCommerce.SSO.csproj": {
+    "P:\\Projects\\IdentityServer_4\\SkyCommerce\\SkyCommerce.SSO\\SkyCommerce.SSO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "P:\\Projects\\IdentityServer_4\\SkyCommerce.SSO\\SkyCommerce.SSO.csproj",
+        "projectUniqueName": "P:\\Projects\\IdentityServer_4\\SkyCommerce\\SkyCommerce.SSO\\SkyCommerce.SSO.csproj",
         "projectName": "SkyCommerce.SSO",
-        "projectPath": "P:\\Projects\\IdentityServer_4\\SkyCommerce.SSO\\SkyCommerce.SSO.csproj",
+        "projectPath": "P:\\Projects\\IdentityServer_4\\SkyCommerce\\SkyCommerce.SSO\\SkyCommerce.SSO.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "P:\\Projects\\IdentityServer_4\\SkyCommerce.SSO\\obj\\",
+        "outputPath": "P:\\Projects\\IdentityServer_4\\SkyCommerce\\SkyCommerce.SSO\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

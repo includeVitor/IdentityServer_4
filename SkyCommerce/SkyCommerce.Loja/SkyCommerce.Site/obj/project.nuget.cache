@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lbm25XSjIpODBg4/EXk1Q/ZdKr9avDPMg93/at66yJHqGEJt7yMwqUC1wl5zn4BeJBcIS/HLby6jBArpxshplA==",
+  "dgSpecHash": "CTtFjN9ZKahvb7RbFeFtie8qzfD4Jnx5CfbAayEOsrpNWI+hbS1BwDXAgfUBgp6QKad4+UoJIzRDMibHMAnjYQ==",
   "success": true,
-  "projectFilePath": "P:\\Projects\\IdentityServer_4\\SkyCommerce.Loja\\SkyCommerce.Site\\SkyCommerce.Site.csproj",
+  "projectFilePath": "P:\\Projects\\IdentityServer_4\\SkyCommerce\\SkyCommerce.Loja\\SkyCommerce.Site\\SkyCommerce.Site.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\aspnetcore.iqueryable.extensions\\3.1.7\\aspnetcore.iqueryable.extensions.3.1.7.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\automapper\\10.0.0\\automapper.10.0.0.nupkg.sha512",

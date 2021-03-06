@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Fkv1AOYY+OmRp6k0SpM7nQQuOnYoS8J52LdNshiZTRejb03llgzwkHVvzsfDrvHOjgaaw24mSZamMck5Wj6/Ow==",
+  "dgSpecHash": "R1ijuS8Kcke3J++5aQD7q+p2KeV4kMsLxhcWNy3wYTZVNZ+I90+D0ifkHfzEsl5SRL0JClmSgbxuZZ9JL91uGw==",
   "success": true,
-  "projectFilePath": "P:\\Projects\\IdentityServer_4\\SkyCommerce.Loja\\SkyCommerce.CrossCutting.Services\\SkyCommerce.CrossCutting.Services.csproj",
+  "projectFilePath": "P:\\Projects\\IdentityServer_4\\SkyCommerce\\SkyCommerce.Loja\\SkyCommerce.CrossCutting.Services\\SkyCommerce.CrossCutting.Services.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\aspnetcore.iqueryable.extensions\\3.1.7\\aspnetcore.iqueryable.extensions.3.1.7.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\bogus\\30.0.4\\bogus.30.0.4.nupkg.sha512",

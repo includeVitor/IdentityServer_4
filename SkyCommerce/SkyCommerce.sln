@@ -15,11 +15,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "infra", "infra", "{3DFF7F96
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SkyCommerce.CrossCutting.Services", "SkyCommerce.Loja\SkyCommerce.CrossCutting.Services\SkyCommerce.CrossCutting.Services.csproj", "{82DE403E-AADD-4D9B-B568-E795CE753811}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "IdentityServer", "IdentityServer", "{281B8AF4-82C8-4273-8E04-6686145F2857}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "IdentityServer4", "IdentityServer4", "{281B8AF4-82C8-4273-8E04-6686145F2857}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SkyCommerce.SSO", "SkyCommerce.SSO\SkyCommerce.SSO.csproj", "{F33EB468-C464-4EE1-9DEC-5ED4FA117834}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "dominio", "dominio", "{A94B775C-36CB-41DD-9314-59B5AC66682D}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "domain", "domain", "{A94B775C-36CB-41DD-9314-59B5AC66682D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

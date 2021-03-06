@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "P:\\Projects\\IdentityServer_4\\SkyCommerce.Loja\\SkyCommerce.Domain\\SkyCommerce.Domain.csproj": {}
+    "P:\\Projects\\IdentityServer_4\\SkyCommerce\\SkyCommerce.Loja\\SkyCommerce.Domain\\SkyCommerce.Domain.csproj": {}
   },
   "projects": {
-    "P:\\Projects\\IdentityServer_4\\SkyCommerce.Loja\\SkyCommerce.Domain\\SkyCommerce.Domain.csproj": {
+    "P:\\Projects\\IdentityServer_4\\SkyCommerce\\SkyCommerce.Loja\\SkyCommerce.Domain\\SkyCommerce.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "P:\\Projects\\IdentityServer_4\\SkyCommerce.Loja\\SkyCommerce.Domain\\SkyCommerce.Domain.csproj",
+        "projectUniqueName": "P:\\Projects\\IdentityServer_4\\SkyCommerce\\SkyCommerce.Loja\\SkyCommerce.Domain\\SkyCommerce.Domain.csproj",
         "projectName": "SkyCommerce.Domain",
-        "projectPath": "P:\\Projects\\IdentityServer_4\\SkyCommerce.Loja\\SkyCommerce.Domain\\SkyCommerce.Domain.csproj",
+        "projectPath": "P:\\Projects\\IdentityServer_4\\SkyCommerce\\SkyCommerce.Loja\\SkyCommerce.Domain\\SkyCommerce.Domain.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "P:\\Projects\\IdentityServer_4\\SkyCommerce.Loja\\SkyCommerce.Domain\\obj\\",
+        "outputPath": "P:\\Projects\\IdentityServer_4\\SkyCommerce\\SkyCommerce.Loja\\SkyCommerce.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

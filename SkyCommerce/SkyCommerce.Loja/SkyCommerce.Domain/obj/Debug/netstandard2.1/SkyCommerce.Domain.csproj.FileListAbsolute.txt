@@ -7,3 +7,12 @@ P:\Projects\IdentityServer_4\SkyCommerce.Loja\SkyCommerce.Domain\obj\Debug\netst
 P:\Projects\IdentityServer_4\SkyCommerce.Loja\SkyCommerce.Domain\obj\Debug\netstandard2.1\SkyCommerce.Domain.csproj.CoreCompileInputs.cache
 P:\Projects\IdentityServer_4\SkyCommerce.Loja\SkyCommerce.Domain\obj\Debug\netstandard2.1\SkyCommerce.Domain.dll
 P:\Projects\IdentityServer_4\SkyCommerce.Loja\SkyCommerce.Domain\obj\Debug\netstandard2.1\SkyCommerce.Domain.pdb
+P:\Projects\IdentityServer_4\SkyCommerce\SkyCommerce.Loja\SkyCommerce.Domain\bin\Debug\netstandard2.1\SkyCommerce.Domain.deps.json
+P:\Projects\IdentityServer_4\SkyCommerce\SkyCommerce.Loja\SkyCommerce.Domain\bin\Debug\netstandard2.1\SkyCommerce.Domain.dll
+P:\Projects\IdentityServer_4\SkyCommerce\SkyCommerce.Loja\SkyCommerce.Domain\bin\Debug\netstandard2.1\SkyCommerce.Domain.pdb
+P:\Projects\IdentityServer_4\SkyCommerce\SkyCommerce.Loja\SkyCommerce.Domain\obj\Debug\netstandard2.1\SkyCommerce.Domain.csprojAssemblyReference.cache
+P:\Projects\IdentityServer_4\SkyCommerce\SkyCommerce.Loja\SkyCommerce.Domain\obj\Debug\netstandard2.1\SkyCommerce.Domain.AssemblyInfoInputs.cache
+P:\Projects\IdentityServer_4\SkyCommerce\SkyCommerce.Loja\SkyCommerce.Domain\obj\Debug\netstandard2.1\SkyCommerce.Domain.AssemblyInfo.cs
+P:\Projects\IdentityServer_4\SkyCommerce\SkyCommerce.Loja\SkyCommerce.Domain\obj\Debug\netstandard2.1\SkyCommerce.Domain.csproj.CoreCompileInputs.cache
+P:\Projects\IdentityServer_4\SkyCommerce\SkyCommerce.Loja\SkyCommerce.Domain\obj\Debug\netstandard2.1\SkyCommerce.Domain.dll
+P:\Projects\IdentityServer_4\SkyCommerce\SkyCommerce.Loja\SkyCommerce.Domain\obj\Debug\netstandard2.1\SkyCommerce.Domain.pdb
